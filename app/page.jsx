@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { ArrowUpRight, ChevronDown, Download, Mail, Menu, X } from 'lucide-react'
 
 const headshot = 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_3169-gPTd6MPbhwXLKDIJoXrRWeQnZIvPnB.jpg'
-const links = { github: 'https://github.com/', linkedin: 'https://linkedin.com/in/', resume: '/resume.pdf' }
+const links = { github: 'https://github.com/atharv51', linkedin: 'https://www.linkedin.com/in/atharv-singh-3902bb261', resume: '/resume.pdf' }
 
 const skillGroups = [
   { title: 'Languages', items: [['JavaScript', 'javascript'], ['TypeScript', 'typescript'], ['Python', 'python'], ['Java', 'java'], ['C++', 'cplusplus']] },
